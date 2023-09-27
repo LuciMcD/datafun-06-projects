@@ -1,0 +1,9 @@
+pandas 
+matplotlib
+seaborn
+
+ipykernel
+jupyterlab
+black ruff
+voila
+
